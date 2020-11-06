@@ -1,0 +1,12 @@
+{
+  "name": "sandbox-thumbsup",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "build": "thumbsup --input ./photos --output ./gallery"
+  },
+  "devDependencies": {
+    "thumbsup": "^2.14.0"
+  }
+}
