@@ -1,0 +1,5 @@
+{
+  "input": "./photos",
+  "output": "./gallery",
+  "embed-exif": true
+}
