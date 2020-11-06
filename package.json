@@ -5,8 +5,7 @@
   "license": "MIT",
   "scripts": {
     "build": "thumbsup --config config.json",
-    "build:with-exif": "thumbsup --config config.exif.json",
-    "build:with-exclude": "thumbsup --input ./photos --output ./gallery --exclude ./photos/IMG_3194.jpg"
+    "build:exif": "thumbsup --config config.exif.json"
   },
   "devDependencies": {
     "thumbsup": "^2.14.0"

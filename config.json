@@ -1,4 +1,5 @@
 {
   "input": "./photos",
-  "output": "./gallery"
+  "output": "./gallery",
+  "cleanup": true
 }
